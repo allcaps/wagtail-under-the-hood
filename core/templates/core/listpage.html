@@ -1,0 +1,7 @@
+{% extends "core/base.html" %}
+
+{% block content %}
+  {% for child in page.get_children %}
+    <p><a href="{{ child.slug }}">{{ child }}</a></p>
+  {% endfor %}
+{% endblock %}
