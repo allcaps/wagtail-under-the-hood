@@ -1,6 +1,8 @@
 Wagtail under the hood
 ======================
 
+https://www.youtube.com/watch?v=nC36If-JWcI
+
 Wagtail Space US 2020 talk
 
 Code as written for my presentation.
